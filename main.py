@@ -1,4 +1,4 @@
-from randim import choice
+from random import choice
 
 objects = ["rock", "paper", "scissors"]
 computer = choice(objects)
